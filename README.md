@@ -22,7 +22,7 @@ heroku is cloud plataform to run app the way easy
 
 ## URL project
 
-link to the project [eccomerce](https://eccommerce-app.herokuapp.com/).
+link to the project [eccomerce](https://Manuoyondi.github.io/Ecommerce-react).
 
 ## using the project
 
