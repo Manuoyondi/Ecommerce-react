@@ -3,15 +3,15 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-    apiKey: "AIzaSyDsXkxgdX6WcqtZay_J7QAucJgVz8eCNKI",
-    authDomain: "eccommerce-3b86b.firebaseapp.com",
-    databaseURL: "https://eccommerce-3b86b.firebaseio.com",
-    projectId: "eccommerce-3b86b",
-    storageBucket: "eccommerce-3b86b.appspot.com",
-    messagingSenderId: "344491320001",
-    appId: "1:344491320001:web:2c2f71f12d19e1750daa40",
-    measurementId: "G-K91VP0F5DK"
-};
+    apiKey: "AIzaSyD1Ro1DjooyUb2ZU7mENTohz4lB0T_VRyE",
+    authDomain: "ecommerce-91b41.firebaseapp.com",
+    databaseURL: "https://ecommerce-91b41.firebaseio.com",
+    projectId: "ecommerce-91b41",
+    storageBucket: "ecommerce-91b41.appspot.com",
+    messagingSenderId: "151013942033",
+    appId: "1:151013942033:web:d08a3063981aef3b7262b0",
+    measurementId: "G-E1NBT0P6WN"
+  };
 
 export const createUserProfileDocument = async (userAuth, additionalData) => {
     if(!userAuth) return;
